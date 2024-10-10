@@ -1,3 +1,4 @@
+{"users":[
 {
     "users": [
         {
@@ -21,5 +22,6 @@
             ]
         }
     ]
-}
-
+},
+{"uuid":"1e2ef726-31fa-42fb-885a-bf1208a6ebd0","username":"sdindl","displayName":"Steven","email":"sdindl@sc.email.edu","password":"Password2024","progressTrackers":[]}
+]}
